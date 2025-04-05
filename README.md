@@ -3,6 +3,6 @@
 
 - I’m currently working at [Branch new](https://https://www.branchnew.com//)
 
-- 👨‍💻 All of my projects are available at [Projects](https://https://gilberto-asuaje.vercel.app//)
+- 👨‍💻 All of my projects are available at [Projects](https://gilberto-asuaje.vercel.app/)
 
 - 💬 Ask me about **react, php & docker**
